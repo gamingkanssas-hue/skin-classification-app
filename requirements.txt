@@ -1,0 +1,5 @@
+streamlit
+scikit-learn==1.2.2
+numpy==1.23.5
+opencv-python-headless==4.6.0.66
+Pillow==9.4.0
